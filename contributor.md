@@ -12,6 +12,7 @@ NAME
 * Rohini Mishra(rohini13)
 * Shubhang Singh(shuba400)
 * Ananya Mohanty (ananya-mohanty)
+* Lokesh Bethala (Lokesh11868)
 * Sarthak Maheshwari(sarthakm21)
 * Sandeep kumar (sandy9808)
 * Varun Tiwari (VarunT11)
